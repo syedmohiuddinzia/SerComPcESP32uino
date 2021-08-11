@@ -45,3 +45,7 @@ conda install pyserial
 
 1. Change the location of device **/dev/USB0** if it is connected at an other address.
 2. Change the baudrate **9600** if the baudrate is something else of the connected device.
+
+# ESP32 PinOut
+
+![ESP32 PinOut](https://github.com/syedmohiuddinzia/SerComESP32uino/blob/main/ESP32PinOut.JPG)
